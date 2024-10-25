@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class Gerador {
 
     public static void main(String[] args) {
-
         //Ainda incompleto para imagens formato binário
         Scanner scan = new Scanner(System.in);
 
